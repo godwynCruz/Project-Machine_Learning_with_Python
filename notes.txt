@@ -1,0 +1,16 @@
+machine learning involves:
+1. import the data, csv file
+2. clean the data, removing duplicate data, depends on the value of the data
+3. split te data into training / test sets
+4. create a model, selecting a algorithm to analyze the data
+5. train the model, look for the pattern
+6. make predictions, ask to make a predictions
+7. evaluate and improve, measure their accuracy, choose another model that will produce more accurate results, or fine tune the parameters of the model
+
+libraries:
+1. Numpy - very popular library, multidimensional array
+2. Pandas- data analysis library that provides concept called data frame, data frame is a two dimensional data structure similar to an excel spreadsheet, very popular for machine learning and data science projects
+3. MatPlotLib - two dimensional plotting library for creating graphs on plots
+4. Scikit-Learn - one of the most popular machine learning libraries that provides all these common algorithms like decision trees, neural networks and so on.
+
+Jupyter - writing our code, easier to perform here than vs code for machine learning and inspecting data
